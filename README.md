@@ -5,13 +5,13 @@
          ★ DevOps tools (Docker, Kubernetes, Jenkins)
          ★ Cloud platforms (AWS, Azure)
          ★ Git, GitHub, and CI/CD pipelines
-- 💞️ I’m looking to collaborate on
+- ✨ I’m looking to collaborate on
         💡 Open-source DevOps projects
         💡 Cloud-based automation
         💡 Infrastructure as Code (IaC)
 - 📫 How to reach me
         ★ Email: harinimuruges04@gmail.com
-        ★ LinkedIn: https://www.linkedin.com/in/harini-murugesan-288883264/
+        ★ Linkedin: https://www.linkedin.com/in/harini-murugesan-288883264/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring new tech and experimenting with automation!
 
